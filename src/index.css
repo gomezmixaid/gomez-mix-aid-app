@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'artist';
+    src: local('artist'), url('./fonts/AEH.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'song';
+    src: local('song'), url('./fonts/AvenirLTStd-Light.otf') format('opentype');
+}
